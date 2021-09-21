@@ -1,6 +1,6 @@
 package test3;
 
-public class Techfios {
+bub class Techfios {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
